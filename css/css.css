@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+.cajaprincipal{
+    width: 280px;
+    height: 460px;
+    background-image: url("../img/imagen.png");
+    position: relative;
+    margin:auto;
+    margin-top: 120px;
+    border-radius:6px;
+    
+}
+.caja1 {
+    width: 240px;
+    height: 430px;
+    border:#FEFFFF 0.2em solid;
+    border-radius:5px;
+    position: absolute;
+    bottom: 17px;
+    left: 22px;
+    padding-left:25px;
+    padding-top: 190px;
+}
+.caja1 h2{
+    color:#FEFFFF;
+}
